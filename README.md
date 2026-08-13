@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer | Data Science & Analytics Enthusiast | CSE Graduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Python+Developer;NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn;BE+in+Computer+Science+Engineering;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Python+Developer;NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn;BE+in+Computer+Science+Engineering;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 ---
