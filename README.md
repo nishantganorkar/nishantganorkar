@@ -1,6 +1,10 @@
-# 👋 Hi, I'm Nishant Ganorkar
+<h1 align="center">Hi 👋, I'm Nishant Ganorkar</h1>
 
 <h3 align="center">Python Developer | Data Science Enthusiast | CSE Graduate</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Python+Developer;Data+Science+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Python+Developer;Exploring+Data+Science+%26+Analytics;Turning+Data+into+Insights;Learning+by+Building+Projects" alt="Typing animation" />
