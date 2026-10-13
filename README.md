@@ -1,99 +1,146 @@
-<h1 align="center">Hi 👋, I'm Nishant Ganorkar</h1>
-<h3 align="center">Python Developer | Data Science & Analytics Enthusiast | CSE Graduate</h3>
+# 👋 Hi, I'm Nishant Ganorkar
+
+<h3 align="center">Python Developer | Data Science Enthusiast | CSE Graduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Python+Developer;NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn;BE+in+Computer+Science+Engineering;Always+learning%2C+always+building" alt="Typing SVG" />
-</p>
-
----
-
-### 🚀 About Me
-
-- 🎓 BE in Computer Science Engineering, Sipna College of Engineering and Technology, Amravati (2022 – 2026)
-- 🔭 Building expertise in **Data Science & Data Analytics** with Python
-- 🌱 Currently exploring: Machine Learning, Generative AI, and real-world data problems
-- 💬 Ask me about Python, NumPy, Pandas, Matplotlib, Seaborn, PostgreSQL
-- 📍 Based in Amravati, Maharashtra
-- 🎯 Looking for entry-level roles as a Software Engineer / Python Developer / Data Analyst
-- ⚡ Fun fact: Built a Bank Management System with Python, OOP, and Streamlit from scratch
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,postgres,vscode,git,github,windows" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Python+Developer;Exploring+Data+Science+%26+Analytics;Turning+Data+into+Insights;Learning+by+Building+Projects" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-- 🏦 **[Bank Management System](https://github.com/YOUR_USERNAME/bank-management-system)** — Python + OOP + Streamlit banking app with account creation, auth, deposits/withdrawals, and JSON-based persistent storage.
-- 🏏 **[IPL 2022 Data Analysis & Visualization](https://github.com/YOUR_USERNAME/ipl-2022-analysis)** — EDA on IPL 2022 data using Pandas, NumPy, Matplotlib & Seaborn to uncover team performance and player insights.
-- 🦠 **Tracking India's Early COVID-19 Spread & Recovery** — Interactive Power BI dashboard with KPIs, state-wise comparisons, and recovery/fatality ratio visualizations.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
-</p>
-
----
-
-### 🎓 Certifications
-
-- **Introduction to Generative AI** — Great Learning (July 2026)
-- **Data Science 101** — IBM Cognitive Class (July 2026)
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/nishantganorkar">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/nishant-ganorkar-29a261259/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:nishantganorkar8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 Computer Science Engineering Graduate from Sipna College of Engineering and Technology, Amravati.
+
+💻 Interested in Python Development, Data Science, and Data Analytics.
+
+📊 Learning to explore, clean, analyze, and visualize data using Python libraries.
+
+🌱 Currently strengthening my knowledge of Machine Learning and real-world data projects.
+
+🛠️ Building projects to improve my programming and problem-solving skills.
+
+📍 Amravati, Maharashtra, India.
+
+🎯 Open to entry-level opportunities in Python Development, Software Engineering, and Data Analytics.
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### Programming Language
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### Data Science & Visualization
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+
+### Database, Development & Tools
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+</p>
+
+---
+
+## 💻 Featured Projects
+
+### 🏦 Bank Management System
+A Python-based banking application with a Streamlit interface.
+
+- Create and manage bank accounts.
+- Login using account credentials.
+- Deposit and withdraw money.
+- Store account data using JSON.
+- Apply Object-Oriented Programming and file handling.
+
+**Technologies:** Python, OOP, Streamlit, JSON
+
+🔗 [View Bank Management System on GitHub](https://github.com/nishantganorkar/Bank-Management-System)
+
+### 🏏 IPL 2022 Data Analysis & Visualization
+Exploratory data analysis of IPL 2022 cricket data to understand team and player performance.
+
+- Analyze match results and toss impact.
+- Explore top-performing batters and bowlers.
+- Create charts and visualizations.
+- Extract insights using Python data analysis libraries.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+🔗 [View IPL 2022 Analysis on GitHub](https://github.com/nishantganorkar/IPL-2022-Data-Analysis-and-Visualization)
+
+### 🦠 Tracking India's Early COVID-19 Spread & Recovery
+A Power BI dashboard project for exploring COVID-19 cases and recovery trends.
+
+- Present key metrics using KPI cards.
+- Compare state-wise cases and recoveries.
+- Analyze recovery rates and case fatality ratios.
+- Visualize public health data using charts.
+
+**Technologies:** Power BI, Excel
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishantganorkar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantganorkar&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishantganorkar&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="95%" />
+</p>
+
+---
+
+## 🎓 Certifications
+
+- **Introduction to Generative AI** — Great Learning
+- **Data Science 101** — IBM Cognitive Class
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, learning from experienced professionals, and exploring entry-level opportunities in Python Development and Data Analytics.
+
+<p align="center">
+  <a href="https://github.com/nishantganorkar">
+    <img src="https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/nishant-ganorkar-29a261259/">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:nishantganorkar8@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=flat-square" />
+  <i>Keep learning, keep building, and keep growing! 🚀</i>
 </p>
