@@ -94,15 +94,20 @@ A Power BI dashboard for exploring COVID-19 cases and recovery trends.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishantganorkar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantganorkar&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishantganorkar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=My%20GitHub%20Overview" alt="GitHub Overview" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishantganorkar&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantganorkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=C%2B%2B,C,CMake&custom_title=Most%20Used%20Languages" alt="Most Used Languages" height="180" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishantganorkar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity" width="95%" />
+</p>
+
+<p align="center">
+  <i>Consistently learning, coding, and building projects with Python.</i>
+</p>
 
 ## 🎓 Certifications
 
